@@ -1,6 +1,6 @@
 <h1 align="center" id="title">To Do Page</h1>
 
-![Header Image- Weather Application](TODO.png)
+![Header Image- Weather Application](todo.png)
 
 
 <h2>🚀 Demo</h2>
